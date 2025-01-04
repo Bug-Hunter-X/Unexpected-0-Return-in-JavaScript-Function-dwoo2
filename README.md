@@ -1,0 +1,1 @@
+This repository demonstrates a common, yet subtle bug in JavaScript functions that can lead to unexpected behavior. The `myFunc` function is designed to divide two numbers, but it incorrectly handles the case where both inputs are 0, returning 0 instead of throwing an error or returning `NaN` (Not a Number). This README provides details about the bug and its solution.
